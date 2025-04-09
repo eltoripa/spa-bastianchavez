@@ -27,10 +27,18 @@ function render() {
       content.innerHTML = `
         <h2>📋 Estructura por completar</h2>
         <h3>🖼️ Acá ingrese una imagen:</h3>
-        <!-- imagen aquí -->
+        <img src="go.png">
 
         <h3>📄 Aquí va una tabla:</h3>
-        <!-- tabla aquí -->
+        <tr>
+        <th>
+        <th>TIEMPO</th>
+        <td> dias</td>
+        
+      
+      
+        
+        </tr>
 
         <h3>📑 Acá va una lista ordenada:</h3>
         <!-- lista ordenada aquí -->
